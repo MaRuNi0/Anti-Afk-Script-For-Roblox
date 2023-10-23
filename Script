@@ -30,7 +30,7 @@ _b.BackgroundColor3 = Color3.new(0.176471, 0.176471, 0.176471)
 _b.Position = UDim2.new(0, 0, 0.800455689, 0)
 _b.Size = UDim2.new(0, 370, 0, 21)
 _b.Font = Enum.Font.Arial
-_b.Text = "MArunio#0434"
+_b.Text = "Created By Marunio#0434"
 _b.TextColor3 = Color3.new(0, 1, 1)
 _b.TextSize = 20
 
